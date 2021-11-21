@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Brian van den Berg, or @bergb1
+- 👀 I’m interested in anything I'm not familiar with
+- 🌱 I’m currently learning C++, Java and Python
+- 📫 You can reach me on my email: brianvdberg2107@gmail.com
