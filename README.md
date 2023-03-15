@@ -1,6 +1,6 @@
-# Who am I?
+# About Me
 
-Hello, my name is Brian van den Berg and I am the owner of this github account. I was born and raised in the Netherlands, but my dream is to travel as much as possible. My hobbies besides learning and developing are music, outdoor sports and the occasional gaming. I would say that the positive traits that I am most proud of are that I am rather goal oriented self-reflective and detirmined, while the most important points that I am still working on are team-oriented planning, initiative and public speaking.
+Hello, my name is Brian van den Berg and I am the owner of this github account. I was born and raised in the Netherlands, but my dream is to travel as much as possible. My hobbies besides learning and developing are music, outdoor sports and the occasional gaming. I would say that the positive traits that I am most proud of are that I am rather goal oriented self-reflective and detirmined, while the most important points that I am still working on are team-oriented planning, initiative skills and public speaking.
 
 ## Education
 
@@ -8,9 +8,11 @@ Up until the third year of my four year degree in "HBO-ICT - Computer Engineerin
 
 ### Projects
 
-There have been five projects during the first two years, which are:
+There were two projects during the first year, which are:
 - Project 1
 - Project 2
+
+And there were three projects during the second year, which are:
 - Project 3
 - Project 4
 - Project 5
