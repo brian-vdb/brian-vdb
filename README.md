@@ -1,3 +1,5 @@
 # About Me
 
-Hello, my name is Brian van den Berg and I am the owner of this github account. I was born and raised in the Netherlands, but my dream is to travel as much as possible. My hobbies besides learning and developing are music, outdoor sports and the occasional gaming. I would say that the positive traits that I am most proud of are that I am goal oriented, self-reflective and determined, while the most important points that I am still working on are team-oriented planning, initiative skills and public speaking.
+Currently I'm doing a degree to become an embedded software engineer, but in my spare time I also dabble in the world of back-end development and AI. In general I'm interested in all forms of software development as long as it interacts with the world and its people!
+
+When I'm too exhausted to study in my spare time and have a moment for myself, I like to watch anime and chill.
